@@ -18,7 +18,7 @@ PYTHON_DLLEXPORT void StopBass() {
         Bass::BASS_Stop();
     }
     else {
-        MessageBoxA(0, "PyBass Library Is Failing To Stoping This Music", "PyBass GUI", MB_OK | MB_ICONERROR);
+        MessageBoxA(0, "PyBass Library Is Failing To Stoping This Music", "Library for BASS(Python Language)", MB_OK | MB_ICONERROR);
     }
 
 }
