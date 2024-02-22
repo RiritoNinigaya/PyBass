@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+     Creating library C:\Users\mkxzis\Downloads\pybass-main\PyBass_Cpp\x64\Release\PyBass_Cpp.lib and object C:\Users\mkxzis\Downloads\pybass-main\PyBass_Cpp\x64\Release\PyBass_Cpp.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PyBass_Cpp.vcxproj -> C:\Users\mkxzis\Downloads\pybass-main\PyBass_Cpp\x64\Release\PyBass_Cpp.dll
