@@ -12,7 +12,7 @@ def MainUI():
         dpg.add_input_text(label="Path to Music", tag="PATH_PYBASS")
         dpg.add_button(label="Play Music", callback=PlayMusic)
         dpg.add_button(label="Stop Music", callback=StopMusic)
-    dpg.create_viewport(title='PyBass GUI by DarknessSoul', width=455, height=455)
+    dpg.create_viewport(title='PyBass GUI by RiritoNinigaya', width=455, height=455)
     dpg.setup_dearpygui()
     dpg.show_viewport()
     dpg.set_primary_window("WindowPYBASS", True)
